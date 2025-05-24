@@ -288,9 +288,9 @@ font-family: "Inter-Regular", sans-serif;
 }
 
 .imgnes-carton {
-  width:30em;
+  width:90%;
   height: 30em;
-}
+  }
 
 .textos-zanahoria {
   flex-shrink: 0;
