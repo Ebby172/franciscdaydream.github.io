@@ -799,6 +799,7 @@ section{
 .imgnes-carton {
   width:90%;
   height: 90%;
+  overflow-x: hidden;
 }
 
 .textos-zanahoria {
